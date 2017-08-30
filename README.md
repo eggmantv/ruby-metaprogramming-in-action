@@ -1,4 +1,4 @@
-# Ruby元变成实战
+# Ruby元编程实战
 
 视频地址 https://eggman.tv/c/s-ruby-metaprogramming-in-action
 
